@@ -1,0 +1,657 @@
+@import url(./fonts.css);
+
+@media (max-width: 1795px) {
+
+    .header__block {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .wrapper, .contact__box {
+        max-width: 1500px;
+        width: 100%;
+    }
+
+    .carousel {
+        margin-top: 150px;
+    }
+
+
+
+}
+
+@media (max-width: 1741px) {
+
+    .wrapper, .contact__box {
+        max-width: 1300px;
+        width: 100%;
+    }
+
+    .carousel {
+        margin-top: 150px;
+    }
+
+    .cv__info {
+        max-width: 700px;
+        width: 100%;
+        padding-left: 28px;
+        padding-right: 20px;
+        padding-top: 37px;
+        padding-bottom: 5px;
+        margin-top: 75px;
+    }
+
+    .header__block {
+        max-width: 400px;
+        width: 100%;
+        padding: 10px 15px;
+    }
+
+
+}
+
+@media (max-width: 1400px) {
+
+    .header__title-secondary {
+        font-size: 22px;
+    }
+    
+    .header__title-main {
+        font-size: 100px;
+    }
+    
+    .header__title-desc {
+        width: 590px;
+        padding-left: 20px;
+    }
+    
+    .header__title-link {
+        font-size: 14px;
+        padding: 15px 0px;
+    }
+
+    .header__block {
+        max-width: 300px;
+        width: 100%;
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .header__blocks-desd {
+        line-height: 20px;
+    }
+
+    .menu__link {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+
+    .photo {
+        max-width: 50%;
+        height: 400px;
+        width: 400px;
+    }
+
+    .cv__info {
+        max-width: 550px;
+    }
+
+    .cv__skills {
+        font-size: 14px;
+        gap: 30px;
+    }
+
+    .fontw {
+        font-size: 14px;
+    }
+    
+    .info__title {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .cv__edu-name-info {
+        margin-bottom: 30px;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+
+    .wrapper, .contact__box {
+        max-width: 900px;
+        width: 100%;
+    }
+
+    .contact__box {
+        max-height: 450px;
+        display: flex;
+        align-items: center;
+    }
+
+    .carousel video{
+        width: 300px;
+        height: 300px;
+    }
+
+    .carousel {
+        margin-top: 250px;
+    }
+
+    .info__title {
+        font-size: 22px;
+    }
+
+    .info__desc {
+        font-size: 14px;
+    }
+
+    ::placeholder {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .form__item {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .form__button {
+        font-weight: 700;
+        font-size: 20px;
+        color: #fff;
+    }
+
+    .form {
+        height: 350px;
+        margin: 0;
+    }
+
+    .form__item {
+        padding: 4px;
+        border-radius: 10px;
+        width: 100%;
+        margin-bottom: 20px;
+        background: #0f121c;
+        border: #080812;
+        color: #fff;
+    
+    }
+
+}
+
+@media (max-width: 1110px) {
+    
+    .wrapper, .contact__box {
+        max-width: 700px;
+        width: 100%;
+    }
+
+    .contact__box {
+        max-height: 450px;
+        display: flex;
+        align-items: center;
+    }
+
+    .carousel video{
+        width: 250px;
+        height: 250px;
+    }
+
+    .carousel {
+        margin-top: 250px;
+    }
+
+    ::placeholder {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .form__item {
+        font-size: 12px;
+        font-weight: 400;
+        height: 30px;
+    }
+
+    .messagge {
+        height: 100px;
+    }
+
+    .form__button {
+        font-weight: 700;
+        font-size: 14px;
+        color: #fff;
+    }
+
+    .form {
+        height: 350px;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .form__item {
+        padding: 4px;
+        border-radius: 10px;
+        width: 100%;
+        margin-bottom: 20px;
+        background: #0f121c;
+        border: #080812;
+        color: #fff;
+    
+    }
+
+    .photo {
+        max-width: 50%;
+        margin: 0px;
+        height: 450px;
+        width: 450px;
+    }
+
+    .cv {
+        flex-direction: column;
+    }
+
+    .cv__info {
+        max-width: 700px;
+        margin-top: 0;
+    }
+
+    .cv__skills {
+        font-size: 14px;
+        gap: 30px;
+    }
+
+    .fontw {
+        font-size: 14px;
+    }
+    
+    .info__title {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .cv__edu-name-info {
+        margin-bottom: 30px;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+
+}
+
+@media (max-width: 915px) {
+
+    .header__title {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .header__title-secondary {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .header__title-main {
+        font-size: 55px;
+        font-weight: 700;
+    }
+
+    .header__title-box {
+        height: 150px;
+        width: 50px;
+    }
+
+    .header__title-link {
+        padding: 15px 0px;
+        max-width: 150px;
+        width: 100%;
+    }
+
+    .header__title-desc {
+        font-size: 12px;
+    }
+
+    .header__blocks-desd {
+        font-size: 12px;
+    }
+
+    .menu__link {
+        font-size: 12px;
+    }
+
+    .logo__link {
+        width: 50px;
+        height: 50px;
+        font-size: 30px;
+    }
+
+    .point__desc {
+        top: 80px;
+        left: 0px;
+        font-size: 12px;
+    }
+
+    .contacts__link {
+        font-size: 12px;
+    }
+
+    .nav__link {
+        display: block;
+        width: 3px;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 100%;
+        margin-bottom: 20px;
+        transition: 0.3s;
+    }
+    
+    .nav__link--active {
+        background: #5252ff;
+        box-shadow: 0 0 5px #7f7fd7, 0 0 14px #5252ff;
+        width: 70px;
+        border-radius: 50px;
+        transition: 0.3s;
+    }
+
+    .cv__info {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .info__title {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .cv__skills {
+        font-size: 12px;
+    }
+
+    .fontw {
+        font-size: 12px;
+    }
+
+    .wrapper, .contact__box {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .contact__box {
+        max-height: 450px;
+        display: flex;
+        align-items: center;
+    }
+
+    .carousel video{
+        width: 250px;
+        height: 250px;
+        gap: 10px;
+    }
+
+    .carousel {
+        margin-top: 250px;
+    }
+
+    .slide__link {
+        margin-right: 10px;
+    }
+
+    .contact__box {
+        flex-direction: column;
+        max-height: max-content;
+        padding: 20px;
+    }
+
+    .form, .contact__box-info {
+        max-width: 450px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav {
+        width: 100%;
+    }
+
+    .header__title {
+        left: 25%;
+        top: 25%;
+        max-width: 400px;
+        width: 100%;
+    }
+    
+    .header__title-box {
+        height: 150px;
+        width: 50px;
+        top: 20%;
+        left: 20%;
+    }
+
+    .header__title-secondary {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    
+    .header__title-main {
+        font-size: 50px;
+        font-weight: 700;
+    }
+    
+    .header__title-desc {
+        font-size: 12px;
+        font-weight: 400;
+        width: 350px;
+    }
+
+    .header__blocks {
+        width: 100%;
+    }
+
+    .header__block {
+        max-width: 50%;
+    }
+
+    .photo {
+        max-width: 100%;
+        margin: 10px;
+        height: 450px;
+        width: 450px;
+    }
+
+    .wrapper, .contact__box {
+        max-width: 370px;
+        width: 100%;
+    }
+
+    .carousel video{
+        width: 370px;
+        height: 370px;
+    }
+
+    .carousel {
+        margin-top: 200px;
+    }
+
+    .cv__info {
+        max-width: 390px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+
+   .fixed {
+        position: relative;
+   }
+
+   .dropdown {
+    display: flex;
+   }
+
+   .maini {
+    display: flex;
+    position: fixed;
+    top: 0;
+   }
+
+   .del {
+    visibility: hidden;
+   }
+
+   .venire {
+        background: #00000017;
+        width: 70px;
+        height: 70px;
+        position: fixed;
+        z-index: 102;
+        border-radius: 100%;
+        background-image: url(../img/29f3dfa2b53262e59e3704a15cf7131e.jpg);
+        background-size: cover;
+        background-position: center;
+        font-size: 40px;
+        font-weight: 700;
+        color: #fff;
+        animation: spin 3s linear infinite;
+        margin: 10px;
+        font-family: "Elronmonospace";
+   }
+
+
+   @keyframes spin {
+        from {
+        transform: rotate(0deg);
+        }
+        to {
+        transform: rotate(360deg);
+        }
+    }
+
+    #user-menu ~ #user-menu-dropdown {
+        opacity: 0;
+        transition: 0.3s;
+      }
+    
+      #user-menu ~ #user-menu-dropdown:focus-within,
+    #user-menu:focus ~ #user-menu-dropdown {
+      opacity: 1;
+      transition: 0.3s;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .dropdown__menu {
+        list-style: none;
+        display: flex;
+        position: fixed;
+        z-index: 120;
+        top: 32px;
+        left: 75px;
+    }
+
+    .menu__link {
+        transition: 0.3s;
+    }
+
+    .smal {
+        left: 10px;
+    }
+
+    .header__title {
+        left: 17%;
+        top: 17%;
+        max-width: 250px;
+        width: 100%;
+        gap: 30px;
+    }
+    
+    .header__title-box {
+        height: 150px;
+        width: 50px;
+        top: 15%;
+        left: 10%;
+    }
+
+    .header__title-secondary {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    
+    .header__title-main {
+        font-size: 35px;
+        font-weight: 700;
+    }
+    
+    .header__title-desc {
+        font-size: 12px;
+        font-weight: 400;
+        width: 200px;
+    }
+
+    .header__title-link {
+        font-size: 12px;
+        padding: 15px 0px;
+    }
+
+    .header__blocks {
+        width: 100%;
+    }
+
+    .header__block {
+        max-width: 50%;
+        font-size: 12px;
+    }
+
+    .photo {
+        max-width: 100%;
+        border-radius: 0;
+        margin: 10px;
+        height: 450px;
+        width: 450px;
+    }
+
+    .wrapper {
+        max-width: 320px;
+        height: 282px;
+        margin-bottom: 390px;
+        width: 100%;
+    }
+
+    .carousel video{
+        width: 282px;
+        height: 282px;
+    }
+    .carousel{
+        height: 282px;
+    }
+    .slide__link {
+        margin: 10px;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .positioning {
+        display: flex;
+        justify-content: center;
+        /* align-items: end; */
+        transform: translate(0%, 0%);
+        top: 95%;
+        left: 3%;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        bottom: 0;
+        z-index: 122;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .audio[muted] {
+      display: none; /* Скрыть мутное аудио */
+    }
+  }
+  

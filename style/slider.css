@@ -1,0 +1,13 @@
+
+
+@media screen and (max-width: 900px) {
+  .carousel video{
+    width: calc(100% / 2);
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .carousel video{
+    width: 100%;
+  }
+}
